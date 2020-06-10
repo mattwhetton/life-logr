@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "life-logr": {
+      "commandName": "Project",
+      "commandLineArgs": "add -m \"Test\" -p"
+    }
+  }
+}
